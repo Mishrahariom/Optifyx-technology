@@ -1,3 +1,34 @@
+| Name |     Hariom Mishra   |
+|--|--|
+| Email  |  mishrahariom2708@gmail.com |
+|Number  |6392560293|
+|College  | 2024 Passout  |
+| Assignment   |**Build My Dream**|
+
+  
+
+> **I'm thrilled to announce the successful completion of the  My Dream Website ( on-progress  ) , where I incorporated advanced
+> technologies and best practices to elevate both functionality and user
+> experience.**
+
+*Key Features:*
+
+-   **React Router DOM:** Implemented seamless navigation for a user-friendly experience.
+-   **Axios and Promises:** Efficient data fetching using Axios with effective handling of asynchronous operations through promises.
+-   **Responsive Design:** Ensured a seamless user experience across diverse devices and browsers.
+-   **React Hooks:** Enhanced modularity and readability of the codebase with the implementation of React Hooks for state management and side effects.
+-   **useParams:** Dynamically extracted parameters from the URL, enabling dynamic content rendering.
+-   **Git Version Control:** Maintained a clean and organized Git commit history, facilitating collaboration and documentation of logical changes.
+-   **Netlify Deployment:** Deployed the application on Netlify, ensuring accessibility and scalability for users.
+
+    I have implemented features to search and display character profiles, locations, and episode characters. The project includes various filters to enhance user interaction. I've structured the codebase with proper import and export practices for maintainability.
 
 
-![screencapture-scintillating-smakager-860376-netlify-app-2023-06-18-11_57_15](https://github.com/sunil9813/Education-Website-Using-ReactJS/assets/67497228/37450154-6e7a-45fd-9793-c731dcc56e2b)
+**
+
+** **Please feel free to explore the project, and I welcome any feedback or**
+> **suggestions you may have.****
+
+**
+
+**Thank you for your time and consideration.**

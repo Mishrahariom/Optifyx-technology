@@ -9,7 +9,7 @@ const Footer = () => {
         <div className='container flexSB'>
           <div className='left row'>
             <h1>Newsletter - Stay tune and get the latest update</h1>
-            <span>Far far away, behind the word mountains</span>
+            <span>Get inspired by our success stories and case studies</span>
           </div>
           <div className='right row'>
             <input type='text' placeholder='Enter email address' />
@@ -20,9 +20,9 @@ const Footer = () => {
       <footer>
         <div className='container padding'>
           <div className='box logo'>
-            <h1>ACADEMIA</h1>
+            <h1>OPTIFYX</h1>
             <span>ONLINE EDUCATION & LEARNING</span>
-            <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+            <p>dedicated to empowering education and transforming lives through innovative e-learning solutions. Connect with us to explore a world of knowledge and opportunity.</p>
 
             <i className='fab fa-facebook-f icon'></i>
             <i className='fab fa-twitter icon'></i>
@@ -31,11 +31,11 @@ const Footer = () => {
           <div className='box link'>
             <h3>Explore</h3>
             <ul>
-              <li>About Us</li>
-              <li>Services</li>
-              <li>Courses</li>
-              <li>Blog</li>
-              <li>Contact us</li>
+              <li>Internship</li>
+              <li>About us </li>
+              <li>Con. on Linkedin</li>
+              <li>All Course</li>
+              <li>Contact Us</li>
             </ul>
           </div>
           <div className='box link'>
@@ -44,7 +44,7 @@ const Footer = () => {
               <li>Contact Us</li>
               <li>Pricing</li>
               <li>Terms & Conditions</li>
-              <li>Privacy</li>
+              <li>FAQ's</li>
               <li>Feedbacks</li>
             </ul>
           </div>
@@ -74,15 +74,15 @@ const Footer = () => {
             <ul>
               <li>
                 <i className='fa fa-map'></i>
-                203 Fake St. Mountain View, San Francisco, California, USA
+                  Main Branch - Delhi India And Other Branches in Bangalore, Mumbai, Chennai, Pune.
               </li>
               <li>
                 <i className='fa fa-phone-alt'></i>
-                +2 392 3929 210
+                +91 92361 83650
               </li>
               <li>
                 <i className='fa fa-paper-plane'></i>
-                info@yourdomain.com
+                help.optifyxtechno@gmail.com
               </li>
             </ul>
           </div>
@@ -90,7 +90,7 @@ const Footer = () => {
       </footer>
       <div className='legal'>
         <p>
-          Copyright ©2022 All rights reserved | This template is made with <i className='fa fa-heart'></i> by GorkhCoder
+          Copyright © 2024 OPTIFYX TECHNOLOGY. All rights reserved. This platform is created with dedication and passion <i className='fa fa-heart'></i> by Founder ...
         </p>
       </div>
     </>

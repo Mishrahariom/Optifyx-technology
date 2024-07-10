@@ -19,15 +19,15 @@ const Contact = () => {
             <div className='items grid2'>
               <div className='box'>
                 <h4>ADDRESS:</h4>
-                <p>198 West 21th Street, Suite 721 New York NY 10016</p>
+                <p>2E/8, Third Floor, Jhandewalan Extension, New Delhi, Delhi 110055, India</p>
               </div>
               <div className='box'>
                 <h4>EMAIL:</h4>
-                <p> info@yoursite.com</p>
+                <p> help.optifyxtechno@..</p>
               </div>
               <div className='box'>
-                <h4>PHONE:</h4>
-                <p> + 1235 2355 98</p>
+                <h4>PHONE: +91 92361 83650</h4>
+                <p> </p>
               </div>
             </div>
 
